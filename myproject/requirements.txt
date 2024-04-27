@@ -1,0 +1,11 @@
+numpy==1.26.4
+PyAudio==0.2.14
+sounddevice==0.4.6
+soundfile==0.12.1
+SpeechRecognition==3.10.1
+streamlit==1.31.0
+streamlit_option_menu==0.3.12
+time
+random
+threading
+pickle
